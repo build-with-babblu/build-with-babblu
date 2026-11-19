@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Babblu 👋
 
-<!--
-**build-with-babblu/build-with-babblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Creator of Build with Babblu
 
-Here are some ideas to get you started:
+I’m learning and building projects step by step.  
+Welcome to my portfolio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🌱 I’m currently learning: [What you're learning]
+- 🔭 I’m working on: [Your current project]
+- 🎯 My goal: Build useful and creative things
+- 📍 Based in: [Your country or city, optional]
+
+## Featured Projects
+
+### [Project name](YOUR_PROJECT_LINK)
+A short description of what this project does.
+
+### [Project name](YOUR_PROJECT_LINK)
+A short description of what this project does.
+
+## Find Me Online
+
+- 🌐 Website: [Build with Babblu](YOUR_WEBSITE_LINK)
+- 📺 YouTube: [Build with Babblu](YOUR_YOUTUBE_LINK)
+- 📧 Email: [YOUR_PUBLIC_EMAIL] (optional)
